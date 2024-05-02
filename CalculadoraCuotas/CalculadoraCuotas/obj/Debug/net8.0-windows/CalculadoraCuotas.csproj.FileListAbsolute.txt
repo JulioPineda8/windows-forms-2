@@ -1,0 +1,16 @@
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\bin\Debug\net8.0-windows\CalculadoraCuotas.exe
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\bin\Debug\net8.0-windows\CalculadoraCuotas.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\bin\Debug\net8.0-windows\CalculadoraCuotas.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\bin\Debug\net8.0-windows\CalculadoraCuotas.dll
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\bin\Debug\net8.0-windows\CalculadoraCuotas.pdb
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.Form1.resources
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.csproj.GenerateResource.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.dll
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\refint\CalculadoraCuotas.dll
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.pdb
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\CalculadoraCuotas.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraCuotas\CalculadoraCuotas\obj\Debug\net8.0-windows\ref\CalculadoraCuotas.dll

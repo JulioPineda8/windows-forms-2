@@ -1,0 +1,16 @@
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\bin\Debug\net8.0-windows\CalculadoraPrestamos.exe
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\bin\Debug\net8.0-windows\CalculadoraPrestamos.deps.json
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\bin\Debug\net8.0-windows\CalculadoraPrestamos.runtimeconfig.json
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\bin\Debug\net8.0-windows\CalculadoraPrestamos.dll
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\bin\Debug\net8.0-windows\CalculadoraPrestamos.pdb
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.Form1.resources
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.csproj.GenerateResource.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.AssemblyInfoInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.AssemblyInfo.cs
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.csproj.CoreCompileInputs.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.dll
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\refint\CalculadoraPrestamos.dll
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.pdb
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\CalculadoraPrestamos.genruntimeconfig.cache
+C:\Users\jpine\OneDrive\Escritorio\Windows forms 2 Progra I practica examen\CalculadoraPrestamos\CalculadoraPrestamos\obj\Debug\net8.0-windows\ref\CalculadoraPrestamos.dll
